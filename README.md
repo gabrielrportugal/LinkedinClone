@@ -1,5 +1,7 @@
 
-<h1>Linkedin Clone 🚀</h1>
+<h1>Linkedin Clone <img width="80px" heigth="80px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo"></h1>
+
+
 
 <h3>Clone da Interface do Linkedin</h3>
 
