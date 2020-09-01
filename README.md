@@ -1,3 +1,26 @@
+
+<h1>Linkedin Clone 🚀</h1>
+
+<h3>Clone da Interface do Linkedin</h3>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/72465251-f0ad-4304-a086-8813c0c65875/deploy-status)](https://linkedin-clone-gabriel.netlify.app/)
+
+<p>Aplicação criada para testar e aprender ainda mais sobre o framework ReactJs e reforçar os conhecimentos em front-end</p>
+<p>Implementando o Shimmer Effect que existe na aplicação do Linkedin</p>
+
+<h5>Confira a aplicação nesse <a href="https://linkedin-clone-gabriel.netlify.app/">link</a> </h5>
+
+Tela principal da aplicação:
+![printLinkedinCLone](https://user-images.githubusercontent.com/44583521/91904784-dfe9de80-ec7b-11ea-8fed-1736e7680bfe.png)
+
+
+<h2> Tecnologias usadas </h2>
+
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Styled-components](https://styled-components.com/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +65,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
